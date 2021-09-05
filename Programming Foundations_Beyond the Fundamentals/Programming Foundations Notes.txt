@@ -1,0 +1,50 @@
+In this course we will walk through understanding and using programming patterns & syntax, also covering the basics of processes like debugging & program planning, and other more advanced programming topics like : OOP and memory management.
+
+-Collection: Grouping multiple items together and storing them with a single name, called a variable.
+ 
+-List : collection that groups pieces of data in certain order and assigns the collection a name. like: animals = ['dog','cat']
+
+-Dictionary = map: to store related info. like: food = {'breakfast': 'salmon', 'dinner': 'cookies'}
+
+-Collections arranged by index numbers, start from 0.
+
+-Iteration: Repeats the same procedure multiple times until it reaches a specified endpoint.
+ Loop: Cof=de that iterates, moving from beginning to end of the process, then starting over.
+ To make Iteration: 1-Specify the data.  2- What should happen to the data during each iteration.
+ 3-Indicate when the loop should stop (endpoint).
+-Infinite Loop: Bug that can occur when the ending condition is omitted or specified incorrectly.
+
+-For: Specifies a variable name that we can use in each iteration of the loop to reference the current value.
+-in: indicates that what follows is the set of values that we want to iterate through.
+-While: Creates a loop in Python. i = (iterator)
+
+-Python Module: Python file that contains code, like variables or functions.
+-Library: Using multiple modules together so they are distributed and used in a group. like Pandas, TensorFlow in Python. Lodash, jQuery in JavaScript.
+-Framework: When a set of code isn't just used together but used in a specific way. like: Django, Flask in Python. React, Vue in JavaScript.
+
+-String: pieces of characters assembled together in a specific way.
+-Concatenation: When multiple strings are combined into a single string.
+-Slicing: Getting part of a string value. string[start:end]
+-Regular Expression (RegEx): Allows you to create a description of a pattern that you want to match.
+it can be made of letters, numbers or special characters.
+
+-Style Guides: Documentation on approaches to code. like PEP8, Google Python style guide.
+-Pseudocode: Writing a description of what you're trying to do using plain language. 
+-Input/Output (I/O): Input like: a stream of digitally encoded music.
+Output like: music data that can be played on speakers.
+
+-Debugging: Identifying & fixing bugs.
+Error categories : 
+1-Syntax : language rules broken, like forgetting ""
+2-Runtime : unable to execute, 
+3-Semantic (logic error) : unexpected output.
+-Test Cases: Commands/scripts designed to test a specific scenario.
+
+-Object-Oriented Programming (OOP): Used for organizing complex and big projects.
+-Computer Storage: 1-Drive: stores Programs & data, 2-Memory: Holds a copy of any code that's running.
+-Memory Management: Code that decides what's kept in memory and what's thrown away.
+-Garbage Collection: An automated memory management process that keeps track of which items aren't needed and deletes them.
+
+-Algorithm: A set of instructions to describe the exact result.
+
+
